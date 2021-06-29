@@ -1,0 +1,3 @@
+application:
+  zookeeper:
+    host: 10.10.10.128:2181
