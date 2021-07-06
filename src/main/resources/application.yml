@@ -1,3 +1,6 @@
 application:
   zookeeper:
     host: 10.10.10.128:2181
+
+server:
+  port: 8080
